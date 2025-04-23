@@ -2,4 +2,4 @@
 
 Discord raiding/spamming tool. Contains many features.
 # WARNING - Still In Development, Experimental Project
-![image](https://github.com/user-attachments/assets/af954c57-7a0d-42b9-9d22-c4cae25fca54)
+![image](https://github.com/user-attachments/assets/7e58083a-969d-4b1c-bc61-0173cba8adfb)
